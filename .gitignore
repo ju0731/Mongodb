@@ -15,7 +15,6 @@ node_modules/
 
 # ignore doc/notes.txt, but not doc/server/arch.txt
 doc/*.txt
-./db.js
 
 # ignore all .pdf files in the doc/ directory
 doc/**/*.pdf
